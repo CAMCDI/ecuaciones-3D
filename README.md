@@ -19,8 +19,8 @@ pip install numpy matplotlib
 1. Clona este repositorio:
 
 ```sh
-git clone <URL_DEL_REPO>
-cd <NOMBRE_DEL_REPO>
+git clone https://github.com/CAMCDI/ecuaciones-3D.git
+cd ecuaciones-3D
 ```
 
 2. Ejecuta el script en la terminal:
